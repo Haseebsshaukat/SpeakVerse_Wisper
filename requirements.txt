@@ -1,4 +1,5 @@
-streamlit==1.23.0
+streamlit==1.30.0
+pillow==10.2.0
 whisper==1.1.10
 deep-translator==1.11.4
 gTTS==2.5.4
