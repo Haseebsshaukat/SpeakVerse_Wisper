@@ -6,3 +6,4 @@ gTTS==2.5.4
 pydub==0.25.1
 streamlit-webrtc==0.47.9
 torch==2.6.0
+translate
